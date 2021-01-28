@@ -1,28 +1,86 @@
 {
     "bg": "https://images.pexels.com/photos/2191013/pexels-photo-2191013.jpeg?cs=srgb&dl=pexels-lopsan-2191013.jpg&fm=jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "Quiz MPB da Alura",
+    "description": "Teste os seus conhecimentos sobre música popular brasileira",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://img.quizur.com/f/img5cbe4894c42f72.61223526.jpeg?lastEdited=1555974297",
+        "title": "O que foi o Tropicália?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Nenhuma das alternativas",
+          "Um movimento da década de 60's, onde os ideais dos artistas eram contra o Golpe Militar e alguns dos artitas que participaram foram exilados",
+          "Um movimento da década de 60's, onde os artistas faziam canções mostrando apoio total ao Golpe Militar"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://img.quizur.com/f/img5cbe4ec3d5a9f0.18920116.jpeg?lastEdited=1555975882",
+        "title": "Qual foi o festival que participou da redemocratização do Brasil em 1985?",
+        "description": "Faz tempo heim haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Rock in Rio",
+           "Lollapalooza",
+           "Hollywood Rock",
+           "Woodstock"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5cbe4f32ad3067.85514544.jpeg?lastEdited=1555975989",
+        "title": "Qual foi o programa comandado por Roberto Carlos, Wanderlea e Erasmo Carlos?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "O Fino da Bossa",
+           "Jovem Guarda",
+           "Festival da Música Popular Braileira I",
+           "FIC"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5cbe5230881fe7.07062630.jpeg?lastEdited=1555976760",
+        "title": "Quais das bandas citadas abaixo são de Brasília?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Titãs, Engenheiros do Hawaii, Skank",
+           "Barão Vermemlho, Blitz, Ultraje a Rigor",
+           "Legião Urbana, Capital Inicial, Plebe Rude"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5cc73e6abce850.63373383.jpeg?lastEdited=1556561517",
+        "title": "Chico Science & Nação Zumbi foi um dos grupos principais do:",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Post-Punk",
+           "Heavy Metal",
+           "Manguebeat"
+
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5cc74128323827.61065845.jpeg?lastEdited=1556562220",
+        "title": "Qual o nome da canção de resistência contra a Ditadura Militar escrita por Geraldo Vandré?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Pra não dizer que não falei das flores",
+           "Mosca na sopa",
+           "Doce Vampiro"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5cc743c7783ea9.74548806.jpeg?lastEdited=1556562891",
+        "title": "O que foi a Bossa Nova?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Foi um movimento que surgiu em finais dos anos 50, caracterizado por estilos de músicas com forte influência do samba carioca e do jazz norte-americano.",
+           "Um estilo musical popular brasileiro. Trata-se de uma variante do samba com raízes africanas e que reúne diversas músicas, poesias e danças.",
+           "Nenhuma das alternativas"
         ]
       }
     ],
